@@ -1,0 +1,8 @@
+{
+  "ActiveTargetSystem": "WSL: Ubuntu",
+  "MRUPresetsPerTargetSystem": {
+    "Локальный компьютер": {
+      "configure": "x64-debug"
+    }
+  }
+}

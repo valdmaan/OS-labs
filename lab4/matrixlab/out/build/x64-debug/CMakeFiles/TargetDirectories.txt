@@ -1,0 +1,5 @@
+C:/учёба/ОС/matrixlab/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/учёба/ОС/matrixlab/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/учёба/ОС/matrixlab/out/build/x64-debug/matrixlab/CMakeFiles/matrixlab.dir
+C:/учёба/ОС/matrixlab/out/build/x64-debug/matrixlab/CMakeFiles/edit_cache.dir
+C:/учёба/ОС/matrixlab/out/build/x64-debug/matrixlab/CMakeFiles/rebuild_cache.dir

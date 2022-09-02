@@ -1,0 +1,5 @@
+C:/учёба/ОС/crit seg/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/учёба/ОС/crit seg/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/учёба/ОС/crit seg/out/build/x64-debug/crit seg/CMakeFiles/CMakeTarget.dir
+C:/учёба/ОС/crit seg/out/build/x64-debug/crit seg/CMakeFiles/edit_cache.dir
+C:/учёба/ОС/crit seg/out/build/x64-debug/crit seg/CMakeFiles/rebuild_cache.dir
